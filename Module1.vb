@@ -11,7 +11,7 @@ Imports Newtonsoft.Json.Linq
 Imports System.Net
 Imports PP00SS.Business
 Imports Wellan.Ecommerce.StoreFront
-'Imports System.Collections.Specialized '台新Header改善預放
+
 
 Module Module1
     Public g_StartExe As String = ""
